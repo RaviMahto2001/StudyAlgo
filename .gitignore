@@ -1,0 +1,11 @@
+/book/
+/class screenshots/
+/ppt/
+
+*.png
+*.jpg
+*.exe
+*.o
+*.pdf
+*.docx
+*.ppt
